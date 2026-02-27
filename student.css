@@ -1,0 +1,73 @@
+body{ 
+    text-align: center;
+    background-size: cover;
+    background-image: url("https://cache.careers360.mobi/media/article_images/2020/7/2/aktu.jpg");
+    background-size: cover; 
+
+}
+#style{
+    text-align: center;
+    width: 210px;
+    height: 20px;
+    font-size: large;
+    margin: 4px;
+    margin-left: 0px;
+    padding: 3px;
+    border-radius: 8px;
+}
+.login{
+    color: aliceblue;
+    text-align: right;
+    width: 382px;
+overflow: auto;
+margin:auto;
+margin: 650;
+margin-top: 150px;
+padding: 95px;
+border-radius: 12px;
+
+background:rgb(0, 0, 0 ,0.4) ;
+}
+#qw{
+    position: relative;
+    right: 72px;
+}
+.annn{
+    color: aliceblue;
+animation-name:colo;
+    animation-duration:5s;
+    animation-iteration-count: infinite;
+    animation-direction:alternate;
+}
+@keyframes colo {
+    from {
+    margin-left: -400px;
+    }
+    to {
+        margin-left: 400px;
+    }
+}
+#roll{
+    text-align: center;
+    width: 210px;
+    height: 20px;
+    font-size: large;
+    margin: 4px;
+    margin-left: 0px;
+    padding: 3px;
+    border-radius: 8px;
+}
+#zx{
+    text-align: center;
+    width: 210px;
+    height: 20px;
+    font-size: large;
+    margin: 4px;
+    margin-left: 0px;
+    padding: 3px;
+    border-radius: 8px;
+}
+h1{
+    font-size: 53px;
+    color: rgb(61, 61, 167);
+}
